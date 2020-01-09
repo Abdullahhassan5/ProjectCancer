@@ -1,0 +1,3 @@
+Urothelial carcinoma, previously called transitional cell carcinoma, occurs in the cells that line the inside of the bladder. ... These same cells line the inside of the ureters and the urethra, and tumors can form in those places as well. Urothelial carcinoma is the most common type of bladder cancer in the United States
+
+The Cancer Genome Atlas Urothelial Bladder Carcinoma (TCGA-BLCA) data collection is part of a larger effort to build a research community focused on connecting cancer phenotypes to genotypes by providing clinical images matched to subjects from The Cancer Genome Atlas (TCGA). Clinical, genetic, and pathological data resides in the Genomic Data Commons (GDC) Data Portal while the radiological data is stored on The Cancer Imaging Archive (TCIA). 
